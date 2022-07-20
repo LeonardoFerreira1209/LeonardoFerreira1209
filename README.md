@@ -1,10 +1,15 @@
 <h2> Olá, me chamo Leonardo 👋</h2>
 
+> TRABALHOS
+
 <p>
    Desenvolvedor FULLSTACK Pleno na <a href="https://www.conectcar.com/"><b>CONECTCAR</b></a>
    </br>
    Desenvolvedor FULLSTACK Sênior na <a href="https://hyper.io/"><b>HYPER.IO</b></a>
 </p>
+
+
+> REDE SOCIAIS
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-leonardoalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-almeida1209/)](https://www.linkedin.com/in/leonardo-ferreira-almeida1209/)
 [![GitHub LeonardoFerreira1209](https://img.shields.io/github/followers/LeonardoFerreira1209?label=follow&style=social)](https://github.com/LeonardoFerreira1209)
