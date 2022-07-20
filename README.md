@@ -13,7 +13,11 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-leonardoalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-almeida1209/)](https://www.linkedin.com/in/leonardo-ferreira-almeida1209/)
 [![GitHub LeonardoFerreira1209](https://img.shields.io/github/followers/LeonardoFerreira1209?label=follow&style=social)](https://github.com/LeonardoFerreira1209)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonardoFerreira1209.pag&left_color=blue&right_color=blue)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoFerreira1209&theme=tokyonight)](https://git.io/streak-stats)
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoFerreira1209&theme=blueberry&show_icons=true)
 
 ### <img src="https://i.pinimg.com/originals/1c/37/e3/1c37e3a017e70bc936da000edefabb1f.gif" width="50">&ensp;Mais sobre mim...
 
