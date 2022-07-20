@@ -78,6 +78,10 @@ Suporte para usuários, e coleta de feedbacks para futuras implementações e me
        new
        {
             name = "TOOLS.API",
+            services = new List<string> 
+            {
+               "TOOLS.USER.API", "TOOLS.MAIL.API", "TOOLS.API", "TOOLS.WEB"
+            }
             technologies = new List<string> 
             {
                 "NETCORE6.0", "EFCORE6.0", "GRAPHQL", "REFIT", "IDENTITYSERVER", "SWAGGER.API", "SQLSERVER", "SERILOG", "AZURE PIPELINES", "REACT.JS", "MORE"
