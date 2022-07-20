@@ -75,7 +75,7 @@ Suporte para usuários, e coleta de feedbacks para futuras implementações e me
             name = "TOOLS.API",
             technologies = new List<string> 
             {
-                "NETCORE6.0", "EFCORE6.0", "GRAPHQL", "REFIT", "IDENTITYSERVER", "SWAGGER.API", "SQLSERVER", "SERILOG", "AZURE PIPELINES", "MORE"
+                "NETCORE6.0", "EFCORE6.0", "GRAPHQL", "REFIT", "IDENTITYSERVER", "SWAGGER.API", "SQLSERVER", "SERILOG", "AZURE PIPELINES", "REACT.JS", "MORE"
             },
             architecture = "MICROSSERVICES & DDD"
        }
