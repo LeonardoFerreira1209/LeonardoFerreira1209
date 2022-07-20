@@ -10,7 +10,7 @@
 [![GitHub LeonardoFerreira1209](https://img.shields.io/github/followers/LeonardoFerreira1209?label=follow&style=social)](https://github.com/LeonardoFerreira1209)
 
 
-### <img src="https://i.pinimg.com/originals/1c/37/e3/1c37e3a017e70bc936da000edefabb1f.gif" width="50">&ensp;Minhas linguagens & conhcimentos  
+### <img src="https://i.pinimg.com/originals/1c/37/e3/1c37e3a017e70bc936da000edefabb1f.gif" width="50">&ensp;Mais sobre mim...
 
 ```c#
  var leo = new {
