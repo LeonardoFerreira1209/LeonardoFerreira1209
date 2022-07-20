@@ -19,7 +19,13 @@
 
 ```c#
  var leo = new {
-
+      
+    fullName = "Leonardo Ferreira de Almeida",
+    age = 22,
+    description = @"Tenho 22 anos, trabalho com analise e desenvolvimento de software a quase 5 anos, 
+    atualmente trabalho como FULLSTACK Pleno na Conectcar á cerca de 6 meses.",
+    whatsapp = "(18)99776-2452",
+    linkedin = new Uri("https://www.linkedin.com/in/leonardo-ferreira-almeida1209/"),
     backEnd = new List<string>
     {
         "C#", "NETCORE", 
