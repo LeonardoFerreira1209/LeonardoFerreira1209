@@ -6,8 +6,6 @@
    Desenvolvedor FULLSTACK Sênior na <a href="https://hyper.io/"><b>HYPER.IO</b></a>
 </p>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=leonardoferreira1209&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-leonardoalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-almeida1209/)](https://www.linkedin.com/in/leonardo-ferreira-almeida1209/)
 [![GitHub LeonardoFerreira1209](https://img.shields.io/github/followers/LeonardoFerreira1209?label=follow&style=social)](https://github.com/LeonardoFerreira1209)
 
@@ -86,5 +84,4 @@ Suporte para usuários, e coleta de feedbacks para futuras implementações e me
 };
 
 ```
-
 
