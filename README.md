@@ -45,7 +45,7 @@
                                 "REACT.JS", "TYPESCRIPT"
     },tools = new List<string>
     {
-        "VSCODE", "VSSTUDIO", "SUBLIME", "MSSMS", "POSTMAN", "LINQPAD",
+        "VSCODE", "VISUALSTUDIO", "SUBLIME", "MSSMS", "POSTMAN", "LINQPAD",
 
     }, companies = new List<object>
     {
