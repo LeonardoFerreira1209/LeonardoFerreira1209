@@ -42,7 +42,7 @@
         "HTML", "CSS",
                 "BOOTSTRAP", "SCSS",
                         "JAVASCRIPT", "JQUERY",
-                                "REACR.JS", "TYPESCRIPT"
+                                "REACT.JS", "TYPESCRIPT"
     },tools = new List<string>
     {
         "VSCODE", "VSSTUDIO", "SUBLIME", "MSSMS", "POSTMAN", "LINQPAD",
