@@ -16,7 +16,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonardoFerreira1209.pag&left_color=blue&right_color=blue)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoFerreira1209&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoFerreira1209&theme=tokyonight&hide_border=true&border_radius=4.4&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoFerreira1209&theme=blueberry&show_icons=true)
 
 ### <img src="https://i.pinimg.com/originals/1c/37/e3/1c37e3a017e70bc936da000edefabb1f.gif" width="50">&ensp;Mais sobre mim...
