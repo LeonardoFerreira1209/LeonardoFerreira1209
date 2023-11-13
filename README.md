@@ -12,7 +12,7 @@
 > REDE SOCIAIS
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-leonardoalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-almeida1209/)](https://www.linkedin.com/in/leonardo-ferreira-almeida1209/)
-[![GitHub LeonardoFerreira1209](https://img.shields.io/github/followers/LeonardoFerreira1209?label=follow&style=social)](https://github.com/LeonardoFerreira1209)
+[![GitHub LeonardoFerreira1209](https://img.shields.io/github/followers/LeonardoFerreira1209?label=follow&style=social)](https://www.linkedin.com/in/leonardoferreiraalmeida/)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoFerreira1209&theme=tokyonight&hide_border=true&border_radius=4.4&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
