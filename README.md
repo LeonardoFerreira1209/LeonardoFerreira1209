@@ -3,11 +3,15 @@
 > TRABALHOS
 
 <p>
-   Desenvolvedor FULLSTACK Pleno na <a href="https://www.conectcar.com/"><b>CONECTCAR</b></a>
+   Desenvolvedor FULLSTACK Pleno na <a href="https://www.conectcar.com/"><b>Conectcar</b></a>
    </br>
    Desenvolvedor FULLSTACK Sênior na <a href="https://www.otis.com/pt/br/"><b>Otis Elevators</b></a>
 </p>
 
+### <img src="https://i.pinimg.com/originals/1c/37/e3/1c37e3a017e70bc936da000edefabb1f.gif" width="50">&ensp;Mais sobre mim...
+
+Desenvolvedor FullStack com +6 anos de experiência, especializado em .NET e Next.Js. Graduado em Sistemas de Informação com habilidades em DevOps e bancos de dados.
+Ao longo da minha trajetória, atuei em diversos projetos, desde freelances até participações em grandes iniciativas.
 
 > REDE SOCIAIS
 
@@ -16,9 +20,4 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoFerreira1209&theme=tokyonight&hide_border=true&border_radius=4.4&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### <img src="https://i.pinimg.com/originals/1c/37/e3/1c37e3a017e70bc936da000edefabb1f.gif" width="50">&ensp;Mais sobre mim...
-
-Desenvolvedor FullStack com +6 anos de experiência, especializado em .NET e Next.Js. Graduado em Sistemas de Informação com habilidades em DevOps e bancos de dados.
-Ao longo da minha trajetória, atuei em diversos projetos, desde freelances até participações em grandes iniciativas.
 
