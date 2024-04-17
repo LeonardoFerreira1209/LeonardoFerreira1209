@@ -5,7 +5,7 @@
 <p>
    Desenvolvedor FULLSTACK Pleno na <a href="https://www.conectcar.com/"><b>CONECTCAR</b></a>
    </br>
-   Desenvolvedor FULLSTACK Sênior na <a href="https://hyper.io/"><b>Otis Elevators</b></a>
+   Desenvolvedor FULLSTACK Sênior na <a href="https://www.otis.com/pt/br/"><b>Otis Elevators</b></a>
 </p>
 
 
