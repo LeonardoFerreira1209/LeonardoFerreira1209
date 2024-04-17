@@ -5,7 +5,7 @@
 <p>
    Desenvolvedor FULLSTACK Pleno na <a href="https://www.conectcar.com/"><b>CONECTCAR</b></a>
    </br>
-   Desenvolvedor FULLSTACK Sênior na <a href="https://hyper.io/"><b>HYPER.IO</b></a>
+   Desenvolvedor FULLSTACK Sênior na <a href="https://hyper.io/"><b>Otis Elevators</b></a>
 </p>
 
 
@@ -19,86 +19,6 @@
 
 ### <img src="https://i.pinimg.com/originals/1c/37/e3/1c37e3a017e70bc936da000edefabb1f.gif" width="50">&ensp;Mais sobre mim...
 
-```c#
- var leo = new {
-      
-    fullName = "Leonardo Ferreira de Almeida",
-    age = 22,
-    description = @"Tenho 22 anos, trabalho com analise e desenvolvimento de software a quase 5 anos, 
-    atualmente trabalho como FULLSTACK Pleno na Conectcar á cerca de 6 meses.",
-    whatsapp = "(18)99776-2452",
-    linkedin = new Uri("https://www.linkedin.com/in/leonardo-ferreira-almeida1209/"),
-    backEnd = new List<string>
-    {
-        "C#", "NETCORE", 
-            "EFCORE", "IDENTITYSERVER", 
-                    "GRAPHQL", "REFIT", "SWAGGER",
-                              "SQLSERVER", "SERVICEBUS", 
-                                        "JOBS", "MORE"
-    },frontEnd = new List<string>
-    {
-        "HTML", "CSS",
-                "BOOTSTRAP", "SCSS",
-                        "JAVASCRIPT", "JQUERY",
-                                "REACT.JS", "TYPESCRIPT"
-    },tools = new List<string>
-    {
-        "VSCODE", "VISUALSTUDIO", "SUBLIME", "MSSMS", "POSTMAN", "LINQPAD",
-
-    }, companies = new List<object>
-    {
-        new 
-        {
-            name = "ITERATIVE/CONECTCAR",
-            title = "FULLSTACK DEVELOPER",
-            fullTime = "6 months",
-            description= @"Atualmente trabalhando no Software Conectcar na squad de estacionamento.
-Utilizamos os demais tecnologias, NET CORE 6, Dapper, Web Jobs, Azure Service Bus, SQL Server, Kubernetes e outras.
-Atualmente a estrutura dos projetos legados são em DDD, porém os novos já são na arquitetura microservices e os legados já estão sendo disseminados para a tal arquitetura.
-Usamos o uso de testes unitários e artillery para fazer bombardeios em APIS e testar sua integridade.
-Trabalhamos com metodologias ágeis como o scrum e kanban."
-        },
-        new
-        {
-            name = "MARTTECH",
-            title = "FULLSTACK DEVELOPER",
-            fullTime = "6 months",
-            description = @"Atualmente trabalhando no software Gabaritech. (Software desenvolvido para auxiliar escolas e professores).
-O projeto é em .Net Core 5.0, com o uso de Entity, estrutura DDD e MVC e uso do GraphQL para consultas e inserções.
-O Front-end é usado HTML, CSS, BOOTSTRAP, TYPESCRIPT E JQUERY."
-        },
-         new
-        {
-            name = "IMOBILIARIA SISTEMA",
-            title = "FULLSTACK DEVELOPER",
-            fullTime = "3 years 9 months",
-            description = @"Atuei em desenvolvimentos e melhorias em .NET Framework & .NET, O desenvolvimento contava com o padrão MVC & Modelagem DDD.
-Front-end participei de desenvolvimentos de views com o uso de HTML, CSS, BOOTSTRAP & JQUERY. Desde formulários padrões a telas mais complexas. 
-Back-end participei de integrações de APIS tanto minhas quanto de terceiros. Criação de Crud's, E métodos mais complexos, Sempre prezando manter um código limpo e legível, usando as Ferramentas como .NET, Net Framework, Entity Framework, MySQL, Postman & Swagger.
-Controle de versões Git.
-Uso de ferramentas para controle de tempos e atividades como JiraSoftware e métodos de kanban.
-Desempenhei em testes de atividades tanto minhas quando de terceiros.
-Documentação e levantamento de requisitos para futuros desenvolvimento e soluções de problemas.
-Suporte para usuários, e coleta de feedbacks para futuras implementações e melhorias."
-        }
-    }, projects = new List<object>
-    {
-       new
-       {
-            name = "TOOLS.API",
-            services = new List<string> 
-            {
-               "TOOLS.USER.API", "TOOLS.MAIL.API", "TOOLS.API", "TOOLS.WEB"
-            }
-            technologies = new List<string> 
-            {
-                "NETCORE6.0", "EFCORE6.0", "GRAPHQL", "REFIT", "IDENTITYSERVER", "SWAGGER.API", "SQLSERVER", "SERILOG", "AZURE PIPELINES", "REACT.JS", "MORE"
-            },
-            architecture = "MICROSSERVICES & DDD"
-       }
-
-    }
-};
-
-```
+Desenvolvedor FullStack com +6 anos de experiência, especializado em .NET e Next.Js. Graduado em Sistemas de Informação com habilidades em DevOps e bancos de dados.
+Ao longo da minha trajetória, atuei em diversos projetos, desde freelances até participações em grandes iniciativas.
 
