@@ -6,6 +6,8 @@
    Desenvolvedor FULLSTACK Pleno na <a href="https://www.conectcar.com/"><b>Conectcar</b></a>
    </br>
    Desenvolvedor FULLSTACK Sênior na <a href="https://www.otis.com/pt/br/"><b>Otis Elevators</b></a>
+   </br>
+    Desenvolvedor FULLSTACK Sênior na <a href="https://www.otis.com/pt/br/"><b>Cargill</b></a>
 </p>
 
 ### <img src="https://i.pinimg.com/originals/1c/37/e3/1c37e3a017e70bc936da000edefabb1f.gif" width="50">&ensp;Mais sobre mim...
