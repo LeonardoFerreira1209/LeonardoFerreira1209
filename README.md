@@ -21,5 +21,4 @@ Ao longo da minha trajetória, atuei em diversos projetos, desde freelances até
 [![GitHub LeonardoFerreira1209](https://img.shields.io/github/followers/LeonardoFerreira1209?label=follow&style=social)](https://www.linkedin.com/in/leonardoferreiraalmeida/)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoFerreira1209&theme=tokyonight&hide_border=true&border_radius=4.4&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LeonardoFerreira1209&theme=dark)](https://git.io/streak-stats)
